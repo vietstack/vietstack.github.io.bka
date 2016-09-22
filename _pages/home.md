@@ -12,7 +12,7 @@ feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
     title: "Triển khai OpenStack"
-    excerpt: "Nếu bạn cần triển khai OpenStack, chúng tôi có thể giúp bạn !"
+    excerpt: "Nếu bạn cần triển khai OpenStack, chúng tôi có thể giúp bạn!. VietStack vừa có tâm vừa có tầm"
     url: "/docs/configuration/"
     btn_label: "Xem thêm"
   - image_path: mm-responsive-feature.png
@@ -24,13 +24,13 @@ feature_row:
   - image_path: mm-free-feature.png
     alt: "100% free"
     title: "Đào tạo OpenStack"
-    excerpt: "Nếu bạn cần tìm hiểu OpenStack để sử dụng, hãy liên với chúng tôi"
+    excerpt: "Nếu bạn cần tìm hiểu OpenStack để sử dụng, hãy liên với chúng tôi. Chia sẻ chính là học hỏi"
     url: "/docs/license/"
     btn_label: "Xem thêm"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Hãy follow theo chúng tôi tại &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/vietstack){: .btn .btn--twitter}'
+  - excerpt: 'Hãy follow theo chúng tôi tại &nbsp; [<i class="fa fa-twitter"></i> @vietstack](https://twitter.com/vietstack){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
