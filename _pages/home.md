@@ -28,7 +28,7 @@ feature_row:
     url: "/docs/license/"
     btn_label: "Xem thêm"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Hãy follow theo chúng tôi tại &nbsp; [<i class="fa fa-twitter"></i> @vietstack](https://twitter.com/vietstack){: .btn .btn--twitter}'
 ---
