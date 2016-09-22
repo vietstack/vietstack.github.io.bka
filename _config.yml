@@ -81,8 +81,8 @@ analytics:
 author:
   name             : *name
   avatar           : "vietstack-logo.png"
-  bio              : "We are OpenStacker in VIET NAM."
-  location         : "Buffalo, NY"
+  bio              : "Nhóm chia sẻ nhiều thông tin về OpenStack hàng đầu tại Việt Nam"
+  location         : "Hà Nội, Việt Nam"
   email            :
   uri              : "https://vietstack.vn"
   bitbucket        :
@@ -198,7 +198,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
   # _docs
   - scope:
