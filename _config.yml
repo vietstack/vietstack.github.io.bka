@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Official Website VietStack"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "VietStack Team"
+description              : "Working OpenStack"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,8 +77,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  name             : "VietStack"
+  avatar           : "vietstack-logo.png"
   bio              : "I am an amazing person."
   location         : "Somewhere"
   email            :
