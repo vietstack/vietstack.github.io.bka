@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Giới thiệu về nhóm VIETSTACK"
-excerpt: "Nhóm chuyên môn về Cloud Compute & OpenStack"
+excerpt: "Nhóm chuyên môn về Cloud Computing & OpenStack"
 author_profile: true
 header:
   overlay_color: "#55ACEE"
