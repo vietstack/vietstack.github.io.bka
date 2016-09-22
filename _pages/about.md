@@ -1,16 +1,17 @@
 ---
 permalink: /about/
-title: "Layout: Header Overlay with Background Fill"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "Giới thiệu về nhóm VIETSTACK"
+excerpt: "Nhóm chuyên môn về Cloud Compute & OpenStack"
 header:
-  overlay_color: "#333"
+  overlay_color: "#55ACEE"
 categories:
-  - Layout
-  - Uncategorized
+  - Markup
 tags:
-  - VietStack
-  - openstack
-  - Tin tức  
+  - content
+  - css
+  - formatting
+  - html
+  - markup
 modified: 2016-09-22T16:39:37-04:00
 ---
 
@@ -18,9 +19,20 @@ VietStack là nhóm các thành viên người Việt - đang làm việc với 
 
 Nhóm phấn đấu trở thành nhóm chuyên môn về OpenStack hàng đầu Việt Nam.
 
+{% include base_path %}
+
+{% capture fig_img %}
+![Foo]({{ base_path }}/images/logo-Vietstack-800x600.png)
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Logo VietStack Team.</figcaption>
+</figure>
+
 Thông tin chính thức về nhóm:
 
-Facebook Groups: http://facebook.com/groups/vietstack
+Facebook Groups: http://facebook.com/groups/vietstacker
 Email quản lý: vietstack@gmail.com
 Hình thức hoạt động của nhóm VIETSTACK cũng tương tự theo OPENSTACK, tức là theo hướng mở. Nhóm không hạn chế thành viên, đối tượng tham gia: kỹ thuật, administrator, coder, boss, manager … chỉ cần bạn quan tâm và theo dõi là có thể tham gia được với các tiêu chí sau:
 
