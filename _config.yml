@@ -4,24 +4,23 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-# defaults
 
 # Site Settings
-locale                   : "en"
-title                    : "Official Website VietStack"
+locale                   : "en-US"
+title                    : "Minimal Mistakes"
 title_separator          : "-"
-name                     : "VietStack Team"
-description              : "Working OpenStack"
-url                      : "https://vietstack.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : &name "Michael Rose"
+description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+repository               : "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "discourse"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -31,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -49,61 +48,61 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "mmistakes"
 facebook:
-  username               :
+  username               : &facebook "michaelrose"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
-  links:
-    - "https://twitter.com/vietstack"
-    - "https://facebook.com/vietstack"
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/mmistakes"
+    - "https://facebook.com/michaelrose"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-2011187-3"
 
 
 # Site Author
 author:
-  name             : "VietStack"
-  avatar           : "vietstack-logo.png"
-  bio              : "We are OpenStacker"
-  location         : "VIETNAM"
+  name             : *name
+  avatar           : "michael-rose.jpg"
+  bio              : "Just another boring, tattooed, time traveling, designer."
+  location         : "Buffalo, NY"
   email            :
-  uri              :
+  uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : *facebook
   foursquare       :
-  github           :
+  github           : "mmistakes"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -165,27 +164,83 @@ kramdown:
   enable_coderay: false
 
 
-# Sass/SCSS
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
+
+# Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-      comments: true
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+# Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
@@ -193,9 +248,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Asia/Ho_Chi_Minh
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
