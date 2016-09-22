@@ -1,22 +1,4 @@
----
-permalink: /about/
-title: "Layout: Header Overlay with Background Fill"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-header:
-  overlay_color: "#333"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - VietStack
-  - openstack
-  - Tin tức  
-modified: 2016-09-22T16:39:37-04:00
----
-
 VietStack là nhóm các thành viên người Việt - đang làm việc với OpenStack tại khắp nơi trên thế giới. Ngoài việc hỗ trợ nhau trong chuyên môn, các thành viên trong nhóm còn quảng bá các thông tin về OpenStack cho các trường, các công ty và tổ chức khác trên toàn lãnh thổ Việt Nam và khắp nơi trên thế giới. 
-
-Nhóm phấn đấu trở thành nhóm chuyên môn về OpenStack hàng đầu Việt Nam.
 
 Thông tin chính thức về nhóm:
 
