@@ -4,7 +4,7 @@ main:
     url: https://vietstack.github.io/
 
   - title: "Blog"
-    url: /blog
+    url: blog
     
   - title: "About"
-    url: /contact
+    url: about
