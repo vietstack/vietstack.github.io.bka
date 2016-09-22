@@ -185,7 +185,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
