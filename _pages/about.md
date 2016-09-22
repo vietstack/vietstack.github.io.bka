@@ -5,18 +5,30 @@ excerpt: "Nhóm chuyên môn về Cloud Compute & OpenStack"
 header:
   overlay_color: "#55ACEE"
 categories:
-  - Layout
-  - Uncategorized
+  - Markup
 tags:
-  - VietStack
-  - openstack
-  - Tin tức  
+  - content
+  - css
+  - formatting
+  - html
+  - markup
 modified: 2016-09-22T16:39:37-04:00
 ---
 
 VietStack là nhóm các thành viên người Việt - đang làm việc với OpenStack tại khắp nơi trên thế giới. Ngoài việc hỗ trợ nhau trong chuyên môn, các thành viên trong nhóm còn quảng bá các thông tin về OpenStack cho các trường, các công ty và tổ chức khác trên toàn lãnh thổ Việt Nam và khắp nơi trên thế giới. 
 
 Nhóm phấn đấu trở thành nhóm chuyên môn về OpenStack hàng đầu Việt Nam.
+
+{% include base_path %}
+
+{% capture fig_img %}
+![Foo]({{ base_path }}/images/logo-Vietstack-800x600.png)
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Logo VietStack Team.</figcaption>
+</figure>
 
 Thông tin chính thức về nhóm:
 
