@@ -20,10 +20,10 @@ defaults:
       comments: true
   # _pages
   - scope:
-      path: "/blog"
+      path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
 
 # Site Settings
 locale                   : "en"
