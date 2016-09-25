@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VietStack"
+title                    : "Minimal Mistakes"
 title_separator          : "-"
-name                     : &name "VietStack Team"
+name                     : &name "Michael Rose"
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : "https://vietstack.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+repository               : "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "vietstack"
+  username               : &twitter "mmistakes"
 facebook:
-  username               : &facebook "vietstack"
+  username               : &facebook "michaelrose"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -67,8 +67,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/vietstack"
-    - "https://facebook.com/vietstack"
+    - "https://twitter.com/mmistakes"
+    - "https://facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -80,21 +80,21 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "vietstack-logo.png"
-  bio              : "Nhóm chia sẻ nhiều thông tin về OpenStack hàng đầu tại Việt Nam"
-  location         : "Hà Nội, Việt Nam"
+  avatar           : "michael-rose.jpg"
+  bio              : "Just another boring, tattooed, time traveling, designer."
+  location         : "Buffalo, NY"
   email            :
-  uri              : "https://vietstack.vn"
+  uri              : "https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "vietstacker"
+  github           : "mmistakes"
   google_plus      :
   keybase          :
-  instagram        : "vietstack"
+  instagram        : "mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -106,7 +106,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "vietstack"
+  youtube          :
 
 
 # Reading Files
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Ho_Chi_Minh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

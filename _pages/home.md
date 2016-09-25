@@ -4,33 +4,33 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install OpenStack Newton"
-  cta_url: "https://github.com/congto/OpenStack-Newton-Scripts"
+  cta_label: "<i class='fa fa-download'></i> Install Now"
+  cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Chúng tôi mong muốn được chia sẻ và thảo luận về các vấn đề trong OpenStack cùng tất cả mọi người trên thế giới này.<br /> <small><a href="https://github.com/vietstacker">Tài nguyên mà chúng tôi có</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
-    title: "Triển khai OpenStack"
-    excerpt: "Nếu bạn cần triển khai OpenStack, chúng tôi có thể giúp bạn!. VietStack vừa có tâm vừa có tầm"
+    title: "Super Customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/docs/configuration/"
-    btn_label: "Xem thêm"
+    btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Tư vấn về OpenStack"
-    excerpt: "Bạn đang băn khoăn rằng có nên lựa chọn OpenStack hay không, hãy liên hệ với chúng tôi"
+    title: "Responsive Layouts"
+    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/docs/layouts/"
-    btn_label: "Xem thêm"
+    btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
-    title: "Đào tạo OpenStack"
-    excerpt: "Nếu bạn cần tìm hiểu OpenStack để sử dụng, hãy liên với chúng tôi. Chia sẻ chính là học hỏi"
+    title: "100% Free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
     url: "/docs/license/"
-    btn_label: "Xem thêm"
+    btn_label: "Learn More"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Cập nhật tin tức của chúng tôi tại đây &nbsp; [<i class="fa fa-twitter"></i> @vietstack](https://twitter.com/vietstacker){: .btn .btn--twitter}'
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
