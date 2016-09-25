@@ -1,5 +1,5 @@
 ---
-title:  "Gemified Theme Alpha Release"
+title:  " Đúc rút vài kinh nghiệm cá nhân khi tìm hiểu về OpenStack"
 categories: 
   - Jekyll
 tags:
