@@ -47,9 +47,9 @@ services:
       - title: "Operator"
         url: /services/operator/
       - title: "Consult"
-        url: /docs/consult/
+        url: /services/consult/
       - title: "Training"
-        url: /docs/training/
+        url: /services/training/
 
 # documentation links
 docs:

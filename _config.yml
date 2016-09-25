@@ -169,7 +169,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-   services:
+  services:
     output: true
     permalink: /:collection/:path/
   recipes:
@@ -181,7 +181,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
