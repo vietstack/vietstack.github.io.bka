@@ -1,6 +1,5 @@
 ---
 title: VietStack hiện tại và tương lai, đặt kỳ vọng vào OpenStack và cộng đồng.
-date: 2014-09-27
 comments: true
 categories: 
   - Blog

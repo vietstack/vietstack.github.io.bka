@@ -1,6 +1,5 @@
 ---
 title: [OpenStack][Extensions] Write a new feature as extension
-date: 2016-08-22
 comments: true
 categories: 
   - Tech

@@ -1,6 +1,5 @@
 ---
 title: Hãy giữ cho VIETSTACK mở thực sự 
-date: 2014-05-31
 comments: true
 categories: 
   - News

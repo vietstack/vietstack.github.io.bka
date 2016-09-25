@@ -1,6 +1,5 @@
 ---
 title: Báo cáo tổng kết 02 tháng và kế hoạch tiếp theo
-date: 2014-04-13
 author: vnstack
 comments: true
 categories: 
