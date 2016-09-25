@@ -1,8 +1,15 @@
 ---
 title: "Overview of Benchmark in Cloud and Benchmark as a Service (Rally)"
 date: 2014-11-20 11:38
+author: vnstack
 comments: true
-categories: [Bài dịch - Tài liệu, Chia sẻ kinh nghiệm, Tài liệu tham khảo]
+tags: 
+  - Bài dịch 
+  - Tài liệu
+  - Chia sẻ kinh nghiệm
+  - Tài liệu tham khảo
+categories:
+  - Post
 ---
 
 <p style="text-align:justify;padding-left:30px;"><strong>Challenges of Public Cloud</strong></p>
