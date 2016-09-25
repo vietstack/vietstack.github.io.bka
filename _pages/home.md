@@ -25,12 +25,12 @@ feature_row:
     alt: "100% free"
     title: "Đào tạo OpenStack"
     excerpt: "Nếu bạn cần tìm hiểu OpenStack để sử dụng, hãy liên với chúng tôi. Chia sẻ chính là học hỏi"
-    url: "/docs/license/"
+    url: "/page/service/daotao/"
     btn_label: "Xem thêm"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=vietstacker&repo=openstack-liberty-multinode&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Cập nhật tin tức của chúng tôi tại đây &nbsp; [<i class="fa fa-twitter"></i> @vietstack](https://twitter.com/vietstacker){: .btn .btn--twitter}'
+  - excerpt: 'Cập nhật tin tức của chúng tôi tại đây &nbsp; [<i class="fa fa-twitter"></i> @vietstack](https://twitter.com/vietstack){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
