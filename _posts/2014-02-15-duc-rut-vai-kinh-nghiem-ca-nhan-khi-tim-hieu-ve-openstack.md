@@ -1,15 +1,11 @@
 ---
-title: Đúc rút vài kinh nghiệm cá nhân khi tìm hiểu về OpenStack
-date: 2014-02-15 09:33
-comments: true
-categories:
-  - Chia sẻ
+title:  " Đúc rút vài kinh nghiệm cá nhân khi tìm hiểu về OpenStack"
+categories: 
+  - Blogs
 tags:
-  - Chia sẻ
-  - Hướng dẫn
-  - Kinh nghiệm
-  - openstack
+  - update
 ---
+
 Tốc ký bài viết này để chia sẻ với các bạn đang và đã tìm hiểu về OpenStack, đây là kinh nghiệm cá nhân của tôi trong suốt thời gian tìm hiểu về OpenStack nói riêng và các vấn đề trong lĩnh vực nói chung. Trước khi chia sẻ xin gửi các bạn một câu nói hay và ý nghĩa mà tôi được nghe (nhớ tên người nói nhưng không muốn nhắc ra :) <!--more-->
 <blockquote>Điều quan trọng không phải bạn là người đầu tiên làm được việc đó, mà quan trọng là bạn là người làm tốt nhất việc đó.</blockquote>
 Kết quả của những kinh nghiệm này có thể sẽ giúp các bạn đi sau rút ngắn được thời gian và công sức, hi vọng nhận được chia sẻ của các bạn để chúng ta cùng tìm hiểu.
