@@ -29,6 +29,13 @@ main:
     
   - title: "Services"
     url: /services/
+    children:
+      - title: "Operator"
+        url: /services/operator/
+      - title: "Consult"
+        url: /services/consult/
+      - title: "Training"
+        url: /services/training/
 
   - title: "News"
     url: /year-archive/
