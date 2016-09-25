@@ -1,9 +1,11 @@
 ---
 title:  " Đúc rút vài kinh nghiệm cá nhân khi tìm hiểu về OpenStack"
-categories: 
-  - Jekyll
+categories:
+  - VietStack
 tags:
-  - update
+  - Chia sẻ
+  - VietStack
+  - Kinh nghiệm
 ---
 
 Tốc ký bài viết này để chia sẻ với các bạn đang và đã tìm hiểu về OpenStack, đây là kinh nghiệm cá nhân của tôi trong suốt thời gian tìm hiểu về OpenStack nói riêng và các vấn đề trong lĩnh vực nói chung. Trước khi chia sẻ xin gửi các bạn một câu nói hay và ý nghĩa mà tôi được nghe (nhớ tên người nói nhưng không muốn nhắc ra :) <!--more-->
