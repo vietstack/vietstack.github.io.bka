@@ -1,6 +1,6 @@
 ---
 title: Giới thiệu các công cụ phụ trợ khi làm việc với OpenStack
-date: 2014-03-29 16:17
+date: 2014-03-29T16:17
 comments: true
 categories: 
   - tech
