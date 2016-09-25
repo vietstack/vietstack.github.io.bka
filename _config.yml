@@ -215,6 +215,18 @@ defaults:
   # _recipes
   - scope:
       path: ""
+      type: services
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "services"
+  # _recipes
+  - scope:
+      path: ""
       type: recipes
     values:
       layout: single
