@@ -23,3 +23,6 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
 end
+
+gem "jekyll"
+gem "html-proofer"
