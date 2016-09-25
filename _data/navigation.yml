@@ -26,6 +26,9 @@ main:
 
   - title: "About"
     url: /about/
+    
+  - title: "Services"
+    url: /services/
 
   - title: "News"
     url: /year-archive/
@@ -36,6 +39,17 @@ main:
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
+
+# documentation links
+services:
+  - title: Getting Started
+    children:
+      - title: "Operator"
+        url: /services/operator/
+      - title: "Consult"
+        url: /docs/consult/
+      - title: "Training"
+        url: /docs/training/
 
 # documentation links
 docs:
