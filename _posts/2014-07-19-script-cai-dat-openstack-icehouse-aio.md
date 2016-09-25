@@ -1,6 +1,5 @@
 ---
 title: Script cài đặt OpenStack Icehouse AIO
-date: 2014-07-19
 comments: true
 categories: 
   - Tech

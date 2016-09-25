@@ -1,6 +1,5 @@
 ---
 title: [OpenStack][Neutron]Some notes of Alembic in Neutron
-date: 2016-09-06
 comments: true
 categories: 
   - Tech
