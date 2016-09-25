@@ -1,6 +1,6 @@
 ---
 title: [OpenStack][Monitoring][Zabbix][Ceilometer] Some notes when designing monitoring solution for OpenStack cloud
-date: 2016-09-13 10:12
+date: 2016-09-13
 comments: true
 categories: 
   - Tech

@@ -1,6 +1,6 @@
 ---
 title: Thông báo về Logo chính thức của VIETSTACK 
-date: 2014-07-06 14:39
+date: 2014-07-06T14:39
 categories: 
   - Blog
 tags: 
