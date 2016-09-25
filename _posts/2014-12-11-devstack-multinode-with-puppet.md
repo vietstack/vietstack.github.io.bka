@@ -1,8 +1,12 @@
 ---
 title: "Devstack multinode with Puppet"
 read_time: true
+categories:
+  - tech
 tags:
-  - read time
+  - OpenStack
+  - Devstack
+  - Puppet
 ---
 
 The following link will direct you how to install Devstack (stable/icehouse) multinode with the help of Puppet. Puppet is one of the most wonderful management and provision tool. By using puppet, it helps us to deploy a large system without repeated manipulation. Check it out!
