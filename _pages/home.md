@@ -13,13 +13,13 @@ feature_row:
     alt: "customizable"
     title: "Triển khai OpenStack"
     excerpt: "Nếu bạn cần triển khai OpenStack, chúng tôi có thể giúp bạn!. VietStack vừa có tâm vừa có tầm"
-    url: "/docs/configuration/"
+    url: "/services/operator/"
     btn_label: "Xem thêm"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
     title: "Tư vấn về OpenStack"
     excerpt: "Bạn đang băn khoăn rằng có nên lựa chọn OpenStack hay không, hãy liên hệ với chúng tôi"
-    url: "/docs/layouts/"
+    url: "/services/consult/"
     btn_label: "Xem thêm"
   - image_path: mm-free-feature.png
     alt: "100% free"
