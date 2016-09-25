@@ -1,7 +1,6 @@
 ---
 title: [OpenStack-Tacker] Some information to use it for MANO
-date: 2016-08-15T10:47
-author: vnstack
+date: 2016-08-15
 comments: true
 categories: 
   - Tech
