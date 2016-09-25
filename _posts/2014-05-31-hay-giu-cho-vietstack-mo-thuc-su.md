@@ -1,5 +1,5 @@
 ---
-title: Hãy giữ cho VIETSTACK mở thực sự 
+title: "Hãy giữ cho VIETSTACK mở thực sự"
 comments: true
 categories: 
   - News

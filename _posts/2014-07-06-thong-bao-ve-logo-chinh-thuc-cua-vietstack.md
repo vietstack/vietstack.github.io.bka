@@ -1,5 +1,5 @@
 ---
-title: Thông báo về Logo chính thức của VIETSTACK 
+title: "Thông báo về Logo chính thức của VIETSTACK"
 categories: 
   - Blog
 tags: 

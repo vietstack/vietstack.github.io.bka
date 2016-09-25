@@ -1,6 +1,7 @@
 ---
 title: Danh sách các ebook phải đọc khi tìm hiểu về OpenStack
 comments: true
+modified: 2016-07-19T16:10:02-03:00
 categories: 
   - VietSack
 tags: 

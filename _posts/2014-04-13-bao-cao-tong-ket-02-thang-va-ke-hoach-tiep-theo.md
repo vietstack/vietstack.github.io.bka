@@ -1,6 +1,5 @@
 ---
-title: Báo cáo tổng kết 02 tháng và kế hoạch tiếp theo
-author: vnstack
+title: "Báo cáo tổng kết 02 tháng và kế hoạch tiếp theo"
 comments: true
 categories: 
   - News

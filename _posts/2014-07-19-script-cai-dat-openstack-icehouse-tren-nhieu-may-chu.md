@@ -1,6 +1,7 @@
 ---
-title: Script cài đặt OpenStack Icehouse trên nhiều máy chủ
+title: "Script cài đặt OpenStack Icehouse trên nhiều máy chủ"
 comments: true
+modified: 2016-07-19T14:20:02-05:00
 categories: 
   - Tech
 tags: 

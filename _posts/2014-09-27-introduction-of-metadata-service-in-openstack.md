@@ -1,5 +1,6 @@
 ---
-title: Introduction of Metadata service in Openstack
+title: "Introduction of Metadata service in Openstack"
+modified: 2016-09-27T16:20:02-04:00
 comments: true
 categories: 
   - Tech
