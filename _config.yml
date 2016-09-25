@@ -169,6 +169,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+   services:
+    output: true
+    permalink: /:collection/:path/
   recipes:
     output: true
     permalink: /:collection/:path/
