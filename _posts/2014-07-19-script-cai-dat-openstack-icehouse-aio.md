@@ -1,6 +1,7 @@
 ---
-title: Script cài đặt OpenStack Icehouse AIO
+title: "Script cài đặt OpenStack Icehouse AIO"
 comments: true
+modified: 2016-07-19T15:20:02-04:00
 categories: 
   - Tech
 tags: 

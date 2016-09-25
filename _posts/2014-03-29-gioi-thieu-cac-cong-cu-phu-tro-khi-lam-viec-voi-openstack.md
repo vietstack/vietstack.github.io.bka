@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu các công cụ phụ trợ khi làm việc với OpenStack
+title: "Giới thiệu các công cụ phụ trợ khi làm việc với OpenStack"
 comments: true
 categories: 
   - tech
