@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "VietStack"
 title_separator          : "-"
 name                     : &name "VietStack Team"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "VietStack Official Website."
 url                      : "https://vietstack.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -68,7 +68,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/vietstack"
-    - "https://facebook.com/vietstack"
+    - "https://facebook.com/vietstackers"
 
 # Analytics
 analytics:
