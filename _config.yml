@@ -68,7 +68,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/vietstack"
-    - "https://facebook.com/vietstackers"
+    - "https://www.facebook.com/vietstackers"
 
 # Analytics
 analytics:
@@ -94,7 +94,7 @@ author:
   github           : "vietstacker"
   google_plus      :
   keybase          :
-  instagram        : "vietstack"
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
