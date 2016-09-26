@@ -84,12 +84,12 @@ author:
   bio              : "Nhóm chia sẻ nhiều thông tin về OpenStack hàng đầu tại Việt Nam"
   location         : "Hà Nội, Việt Nam"
   email            :
-  uri              : "https://vietstack.vn"
+  uri              : "https://vietstack.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : https://www.facebook.com/vietstackers
   foursquare       :
   github           : "vietstacker"
   google_plus      :
@@ -102,11 +102,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : https://twitter.com/vietstack
   vine             :
   weibo            :
   xing             :
-  youtube          : "vietstack"
+  youtube          : https://www.youtube.com/channel/UCeaas1DIO8xFR52VfKOioOw
 
 
 # Reading Files
