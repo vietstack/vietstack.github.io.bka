@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/vietstackers
+  facebook         : "vietstackers"
   foursquare       :
   github           : "vietstacker"
   google_plus      :
@@ -102,11 +102,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/vietstack
+  twitter          : "vietstack"
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/channel/UCeaas1DIO8xFR52VfKOioOw
+  youtube          : "vietstack"
 
 
 # Reading Files
