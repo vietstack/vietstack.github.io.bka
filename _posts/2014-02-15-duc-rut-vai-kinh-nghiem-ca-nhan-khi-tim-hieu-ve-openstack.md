@@ -1,7 +1,7 @@
 ---
 title:  " Đúc rút vài kinh nghiệm cá nhân khi tìm hiểu về OpenStack"
 categories:
-  - VietStack
+ - Article
 tags:
   - Chia sẻ
   - VietStack

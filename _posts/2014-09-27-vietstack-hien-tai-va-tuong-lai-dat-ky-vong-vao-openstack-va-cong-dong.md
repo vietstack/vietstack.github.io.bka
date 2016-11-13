@@ -3,7 +3,7 @@ title: "VietStack hiện tại và tương lai, đặt kỳ vọng vào OpenStac
 comments: true
 modified: 2016-09-27T16:20:02-05:00
 categories: 
-  - Blog
+  - Article
 tags: 
   - Chia sẻ
   - Kinh nghiệm

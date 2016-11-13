@@ -4,9 +4,9 @@ comments: true
 categories:
   - Tech
 tags:
-  - Chia sẻ
   - VietStack
-  - Kinh nghiệm
+  - RPC 
+  - Rabbitmq
 ---
 <span style="font-family:Arial, sans-serif;"><span style="font-size:large;"><b>OpenStack RPC</b></span></span>
 

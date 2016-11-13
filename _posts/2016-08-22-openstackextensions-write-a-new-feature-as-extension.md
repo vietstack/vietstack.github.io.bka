@@ -4,11 +4,12 @@ date: 2016-08-22 20:13
 comments: true
 categories: 
   - Tech
+  - Blog
 tags: 
-  - Chia sẻ
-  - Kinh nghiệm
   - VietStack
   - OpenStack
+  - API
+  - Python
 ---
 The first question is why we need extensions?
 
