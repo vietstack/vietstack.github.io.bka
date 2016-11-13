@@ -33,7 +33,7 @@ Thông tin chính thức về nhóm:
 
 Hình thức hoạt động của nhóm VIETSTACK cũng tương tự theo OPENSTACK, tức là theo hướng mở. Nhóm không hạn chế thành viên, đối tượng tham gia: kỹ thuật, administrator, coder, boss, manager … chỉ cần bạn quan tâm và theo dõi là có thể tham gia được với các tiêu chí sau:
 
-- VIETSTACK là nới giao lưu và trao đổi của những người quan tâm tới OpenStack.
+- VIETSTACK là nơi giao lưu và trao đổi của những người quan tâm tới OpenStack.
 - VIETSTACK không đại diện cho bất kỳ công ty nào hoặc một cá nhân nào.
 - VIETSTACK hoạt động trên tinh thần chia sẻ tự nguyện và cùng thảo luận để phát triển.
 - VIETSTACK sẵn sàng mời các bạn tham gia gửi bài và trao đổi tại blog chính thức này.

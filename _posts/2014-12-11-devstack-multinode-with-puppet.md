@@ -2,7 +2,7 @@
 title: "Devstack multinode with Puppet"
 read_time: true
 categories:
-  - tech
+  - Tech
 tags:
   - OpenStack
   - Devstack

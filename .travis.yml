@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.3.1
+
+install: bundle install
+script: jekyll build --trace
+
+branches:
+  only:
+  - master
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true 
+
+notifications:
+  email: false

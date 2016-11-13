@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "VietStack"
 title_separator          : "-"
 name                     : &name "VietStack Team"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "VietStack Official Website."
 url                      : "https://vietstack.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -68,7 +68,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/vietstack"
-    - "https://facebook.com/vietstack"
+    - "https://www.facebook.com/vietstackers"
 
 # Analytics
 analytics:
@@ -84,17 +84,17 @@ author:
   bio              : "Nhóm chia sẻ nhiều thông tin về OpenStack hàng đầu tại Việt Nam"
   location         : "Hà Nội, Việt Nam"
   email            :
-  uri              : "https://vietstack.vn"
+  uri              : "https://vietstack.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : "vietstackers"
   foursquare       :
   github           : "vietstacker"
   google_plus      :
   keybase          :
-  instagram        : "vietstack"
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : "vietstack"
   vine             :
   weibo            :
   xing             :
