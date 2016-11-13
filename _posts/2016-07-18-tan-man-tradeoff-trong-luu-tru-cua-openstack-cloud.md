@@ -1,8 +1,9 @@
 ---
-title: [Tản mạn] Tradeoff trong lưu trữ của OpenStack Cloud
+title: "Tradeoff trong lưu trữ của OpenStack Cloud"
 comments: true
 categories:
-  - Tech
+  - Article
+  - Blog
 tags:
   - Chia sẻ
   - Hướng dẫn

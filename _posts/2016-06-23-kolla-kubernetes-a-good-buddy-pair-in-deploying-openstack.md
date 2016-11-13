@@ -1,5 +1,5 @@
 ---
-title: Kolla-Kubernetes: A good buddy pair in deploying OpenStack
+title: "Kolla-Kubernetes: A good buddy pair in deploying OpenStack"
 comments: true
 categories:
   - Tech

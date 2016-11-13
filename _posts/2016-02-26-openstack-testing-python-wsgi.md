@@ -1,5 +1,5 @@
 ---
-title: [Openstack] Testing Python WSGI
+title: "Testing Python WSGI"
 comments: true
 categories: 
   - Tech

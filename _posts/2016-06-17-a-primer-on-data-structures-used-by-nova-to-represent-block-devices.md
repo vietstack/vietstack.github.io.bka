@@ -1,5 +1,5 @@
 ---
-title: A primer on data structures used by Nova to represent block devices
+title: "A primer on data structures used by Nova to represent block devices"
 comments: true
 categories: 
   - Tech

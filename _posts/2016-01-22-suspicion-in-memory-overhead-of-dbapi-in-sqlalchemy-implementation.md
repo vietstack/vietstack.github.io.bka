@@ -1,5 +1,5 @@
 ---
-title: Suspicion in memory overhead of DBAPI in sqlalchemy implementation
+title: "Suspicion in memory overhead of DBAPI in sqlalchemy implementation"
 comments: true
 categories: 
   - Tech

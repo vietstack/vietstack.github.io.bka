@@ -1,5 +1,5 @@
 ---
-title: [Tản mạn]Câu chuyện về dịch chuyển ứng dụng lên cloud
+title: "Câu chuyện về dịch chuyển ứng dụng lên cloud"
 comments: true
 categories:
   - Article

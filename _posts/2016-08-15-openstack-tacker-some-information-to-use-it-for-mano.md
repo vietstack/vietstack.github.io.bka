@@ -1,5 +1,5 @@
 ---
-title: "[OpenStack-Tacker] Some information to use it for MANO"
+title: "Some information to use it for MANO"
 date: 2016-08-15 19:46
 comments: true
 categories: 

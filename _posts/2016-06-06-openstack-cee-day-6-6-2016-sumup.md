@@ -1,8 +1,9 @@
 ---
-title: OpenStack CEE Day (6-6-2016) Sumup
+title: "OpenStack CEE Day (6-6-2016) Sumup"
 comments: true
 categories:
   - Article
+  - Blog
 tags:
   - Chia sẻ
   - Hướng dẫn
