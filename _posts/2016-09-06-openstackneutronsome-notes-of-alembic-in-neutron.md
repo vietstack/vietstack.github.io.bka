@@ -1,5 +1,5 @@
 ---
-title: "[OpenStack][Neutron]Some notes of Alembic in Neutron"
+title: [OpenStack][Neutron]Some notes of Alembic in Neutron
 comments: true
 categories: 
   - Tech

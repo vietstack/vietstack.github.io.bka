@@ -4,6 +4,7 @@ date: 2014-11-20 11:38
 comments: true
 categories:
   - Tech
+  - Blog
 tags:
   - Rally
   - OpenStack
