@@ -1,8 +1,9 @@
 ---
-title: Các link - github hướng dẫn cài đặt OpenStack
+title: "Các link - github hướng dẫn cài đặt OpenStack"
 comments: true
 categories: 
   - Tech
+  - Blog
 tags:
   - OpenStack
 ---

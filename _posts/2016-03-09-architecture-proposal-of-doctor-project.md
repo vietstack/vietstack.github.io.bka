@@ -1,5 +1,5 @@
 ---
-title: Architecture Proposal of Doctor Project
+title: "Architecture Proposal of Doctor Project"
 comments: true
 categories: 
   - Tech

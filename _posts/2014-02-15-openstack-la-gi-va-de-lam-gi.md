@@ -1,13 +1,13 @@
 ---
-title: OpenStack là gì và để làm gì !
+title: "OpenStack là gì và để làm gì !"
 comments: true
 categories:
   - Article
+  - Blog
 tags:
   - Chia sẻ
   - Hướng dẫn
   - Kinh nghiệm
-  - OpenStack
 ---
 Có vẻ là quá thường  nhưng để bắt đầu làm gì đó "to tát" thì hay bắt đầu những việc đơn giản trước. Tôi viết bài này để chia sẻ tới những người mới bắt đầu tìm hiểu và có đam mê.  Chắc hẳn đây cũng không phải là câu hỏi thừa hay thiếu đối với những người mới bắt đầu tìm hiểu về OpenStack nói riêng và Cloud Computing nói chung.<!--more-->
 

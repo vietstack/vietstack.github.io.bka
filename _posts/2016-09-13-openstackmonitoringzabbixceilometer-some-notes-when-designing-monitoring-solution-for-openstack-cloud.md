@@ -1,8 +1,9 @@
 ---
-title: "[OpenStack][Monitoring][Zabbix][Ceilometer] Some notes when designing monitoring solution for OpenStack cloud"
+title: "Some notes when designing monitoring solution for OpenStack cloud"
 comments: true
 categories: 
   - Tech
+  - Blog
 tags: 
   - Chia sẻ
   - Kinh nghiệm

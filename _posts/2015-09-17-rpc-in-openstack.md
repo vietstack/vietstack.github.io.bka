@@ -3,8 +3,8 @@ title:  "RPC in OpenStack"
 comments: true
 categories:
   - Tech
+  - Blog
 tags:
-  - VietStack
   - RPC 
   - Rabbitmq
 ---

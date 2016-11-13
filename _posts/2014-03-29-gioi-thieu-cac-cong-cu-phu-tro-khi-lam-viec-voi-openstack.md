@@ -2,7 +2,8 @@
 title: "Giới thiệu các công cụ phụ trợ khi làm việc với OpenStack"
 comments: true
 categories: 
-  - Tech
+  - Article
+  - Blog
 tags: 
   - Chia sẻ
   - Kinh nghiệm

@@ -1,12 +1,11 @@
 ---
-title: Hướng dẫn cài đặt OpenStack Havana theo devstack
+title: "Hướng dẫn cài đặt OpenStack Havana theo devstack"
 comments: true
 categories: 
   - Tech
+  - Blog
 tags:
-  - Chia sẻ
-  - VietStack
-  - Kinh nghiệm
+  - Havana
   - devstack
 ---
 Hướng dẫn cài đặt Openstack - Hanana theo kịch bản của devstack, áp dụng với mô hình All In One (tất cả các thành phần của Openstack trong 1 máy chủ).

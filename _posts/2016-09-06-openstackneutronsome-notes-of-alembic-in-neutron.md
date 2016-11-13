@@ -1,12 +1,10 @@
 ---
-title: [OpenStack][Neutron]Some notes of Alembic in Neutron
+title: "[OpenStack][Neutron]Some notes of Alembic in Neutron"
 comments: true
 categories: 
   - Tech
+  - Blog
 tags: 
-  - Chia sẻ
-  - Kinh nghiệm
-  - VietStack
   - Neutron
   - OpenStack
 ---

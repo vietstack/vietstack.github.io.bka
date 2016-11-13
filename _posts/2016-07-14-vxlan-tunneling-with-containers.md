@@ -1,14 +1,15 @@
 ---
-title: VXLAN tunneling with containers
+title: "VXLAN tunneling with containers"
 comments: true
 categories:
   - Tech
+  - Blog
 tags:
-  - Chia sẻ
-  - Hướng dẫn
-  - Kinh nghiệm
   - OpenStack
   - Neutron
+  - SDN
+  - VXLAN
+  - Container
 ---
 When I had meeting with SDN guys about the SDN implementation in cloud, it recalled me VXLAN that by somehow I forgot quite a long time. In fact, tunneling/overlay network solution has an indispensable role in SDN solution, especially when we would like to implement SFC in Network Function Virtualization.
 
