@@ -1,7 +1,8 @@
 ---
 title:  "RPC in OpenStack"
+comments: true
 categories:
-  - VietStack
+  - Tech
 tags:
   - Chia sẻ
   - VietStack
