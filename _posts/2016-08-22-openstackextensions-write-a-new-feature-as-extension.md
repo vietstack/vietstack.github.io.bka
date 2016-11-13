@@ -6,7 +6,6 @@ categories:
   - Tech
   - Blog
 tags: 
-  - VietStack
   - OpenStack
   - API
   - Python

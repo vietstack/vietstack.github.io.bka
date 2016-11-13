@@ -3,11 +3,13 @@ title: [Tản mạn]Câu chuyện về dịch chuyển ứng dụng lên cloud
 comments: true
 categories:
   - Article
+  - Blog
 tags:
   - Chia sẻ
   - Hướng dẫn
   - Kinh nghiệm
-  - OpenStack
+  - Meetup
+  - Summit
 ---
 Trong dự án gần đây nhất khi VietStack triển khai nền tảng cloud dùng OpenStack cho một tập đoàn công nghệ tại Việt Nam trong năm 2016, chúng tôi gặp lại câu hỏi:
 
